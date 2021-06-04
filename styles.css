@@ -2,6 +2,8 @@ body {
     padding: 8px;
     margin: 8px;
     display: block;
+    background-color: greenyellow;
+    text-align: center;
   }
   
 #mainHeading {
@@ -11,3 +13,10 @@ body {
 .funParagraph {
     color: green
   }
+
+#listOfPlaces {
+    text-align: left;
+}
+#footerToTheRight {
+    text-align: right;
+}
